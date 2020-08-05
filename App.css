@@ -9,29 +9,45 @@ html{
   align-items: center;
 }
 .before{
-   width: 500px;
-  height: 500px; 
-  background-color:rgba(241,240,204); 
+   width: 400px;
+  height: 400px; 
+  background-color:rgb(194, 165, 102); 
   text-align: center;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Bebas Neue', cursive;
+ color: pink;
+ font-size: 70px;
+ display: flex;
+ align-items: center;
 }
 .after{
-  width: 500px;
-  height: 500px; 
-  background-color:peachpuff; 
+  width: 400px;
+  height: 400px; 
+  background-color:pink; 
 text-align: center;
-color: white;
-font-family: 'Satisfy', cursive;
+color: rgb(194, 165, 102);
+font-family: 'Bebas Neue', cursive;
+font-size: 70px;
+ display: flex;
+ align-items: center;
+left: 50%;
 }
 
 button{
-  border: solid white;
+  border: double  rgb(138, 196, 72);
   background-color: rgba(99,141,50);
-  font-family: 'Poppins', sans-serif;
-  color:white;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Bebas Neue', cursive;
+  color:pink;
   font-size: 15px;
 }
+
+
+p{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+  color: rgb(194, 165, 102);
+}
+
+
 
 
 p{
