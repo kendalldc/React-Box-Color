@@ -1,0 +1,43 @@
+html{
+  background-color: rgba(99,141,50);
+}
+.App {
+  text-align: center;
+}
+
+.stateChange{
+  align-items: center;
+}
+.before{
+   width: 500px;
+  height: 500px; 
+  background-color:rgba(241,240,204); 
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+.after{
+  width: 500px;
+  height: 500px; 
+  background-color:peachpuff; 
+text-align: center;
+color: white;
+font-family: 'Satisfy', cursive;
+}
+
+button{
+  border: solid white;
+  background-color: rgba(99,141,50);
+  font-family: 'Poppins', sans-serif;
+  color:white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+
+p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+
+
